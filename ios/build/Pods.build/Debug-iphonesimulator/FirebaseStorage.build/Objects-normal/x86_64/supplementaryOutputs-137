@@ -1,0 +1,18 @@
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift":
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageError.d"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageError.swiftdeps"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageError.dia"
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageError.o"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageError.swiftconstvalues"
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageFetcherService.swift":
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageFetcherService.dia"
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageFetcherService.o"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageFetcherService.d"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageFetcherService.swiftdeps"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageFetcherService.swiftconstvalues"
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift":
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.o"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.d"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.swiftconstvalues"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.swiftdeps"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.dia"

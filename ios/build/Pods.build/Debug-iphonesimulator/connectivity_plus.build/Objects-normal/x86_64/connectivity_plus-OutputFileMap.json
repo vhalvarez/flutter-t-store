@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-master.dia",
+    "emit-module-dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-master.swiftdeps"
+  },
+  "/Users/vhalvarez/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.3/ios/connectivity_plus/Sources/connectivity_plus/ConnectivityPlusPlugin.swift" : {
+    "const-values" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlusPlugin.swiftconstvalues",
+    "dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlusPlugin.d",
+    "diagnostics" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlusPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlusPlugin.o",
+    "llvm-bc" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlusPlugin.bc",
+    "object" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlusPlugin.o",
+    "swift-dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlusPlugin.swiftdeps",
+    "swiftmodule" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlusPlugin~partial.swiftmodule"
+  },
+  "/Users/vhalvarez/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.3/ios/connectivity_plus/Sources/connectivity_plus/ConnectivityProvider.swift" : {
+    "const-values" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.swiftconstvalues",
+    "dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.d",
+    "diagnostics" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.o",
+    "llvm-bc" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.bc",
+    "object" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.o",
+    "swift-dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.swiftdeps",
+    "swiftmodule" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider~partial.swiftmodule"
+  },
+  "/Users/vhalvarez/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.3/ios/connectivity_plus/Sources/connectivity_plus/PathMonitorConnectivityProvider.swift" : {
+    "const-values" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.swiftconstvalues",
+    "dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.d",
+    "diagnostics" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.o",
+    "llvm-bc" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.bc",
+    "object" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.o",
+    "swift-dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.swiftdeps",
+    "swiftmodule" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider~partial.swiftmodule"
+  }
+}

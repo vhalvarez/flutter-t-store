@@ -1,0 +1,18 @@
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/EncoderDecoder.swift":
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/EncoderDecoder.o"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/EncoderDecoder.d"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/EncoderDecoder.swiftdeps"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/EncoderDecoder.dia"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/EncoderDecoder.swiftconstvalues"
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/ExplicitNull.swift":
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/ExplicitNull.o"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/ExplicitNull.d"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/ExplicitNull.swiftconstvalues"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/ExplicitNull.swiftdeps"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/ExplicitNull.dia"
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/FieldValue+Encodable.swift":
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/FieldValue+Encodable.swiftdeps"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/FieldValue+Encodable.d"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/FieldValue+Encodable.dia"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/FieldValue+Encodable.swiftconstvalues"
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/FieldValue+Encodable.o"

@@ -1,0 +1,18 @@
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift":
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Storage.o"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftconstvalues"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Storage.d"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Storage.dia"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftdeps"
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift":
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftdeps"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.dia"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.d"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftconstvalues"
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.o"
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift":
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Result.o"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Result.dia"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Result.swiftconstvalues"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Result.swiftdeps"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Result.d"

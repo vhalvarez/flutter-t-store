@@ -1,0 +1,18 @@
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentID.swift":
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.dia"
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.o"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.swiftconstvalues"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.d"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.swiftdeps"
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CollectionReference+WriteEncodable.swift":
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.swiftconstvalues"
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.o"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.swiftdeps"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.dia"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.d"
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+Codable.swift":
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.o"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.dia"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.d"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.swiftconstvalues"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.swiftdeps"

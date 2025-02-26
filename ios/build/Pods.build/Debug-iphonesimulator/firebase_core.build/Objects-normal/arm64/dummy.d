@@ -1,0 +1,5 @@
+dependencies: \
+  /Volumes/Respaldo\ Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/firebase_core.build/module.modulemap \
+  /Users/vhalvarez/.pub-cache/hosted/pub.dev/firebase_core-3.12.0/ios/firebase_core/Sources/firebase_core/dummy.m \
+  /Volumes/Respaldo\ Disco/Development/t_store/ios/Pods/Target\ Support\ Files/firebase_core/firebase_core-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap

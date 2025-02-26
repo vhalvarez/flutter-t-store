@@ -1,0 +1,18 @@
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageInternalTask.swift":
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageInternalTask.dia"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageInternalTask.swiftconstvalues"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageInternalTask.d"
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageInternalTask.o"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageInternalTask.swiftdeps"
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift":
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.swiftconstvalues"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.dia"
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.o"
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.swiftdeps"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.d"
+"/Volumes/Respaldo Disco/Development/t_store/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift":
+  swift-dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.swiftdeps"
+  object: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.o"
+  dependencies: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.d"
+  diagnostics: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.dia"
+  const-values: "/Volumes/Respaldo Disco/Development/t_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.swiftconstvalues"

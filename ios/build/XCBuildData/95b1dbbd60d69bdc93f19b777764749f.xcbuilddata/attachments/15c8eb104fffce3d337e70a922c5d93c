@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests-master.dia",
+    "emit-module-dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests-master.swiftdeps"
+  },
+  "/Volumes/Respaldo Disco/Development/t_store/ios/RunnerTests/RunnerTests.swift" : {
+    "const-values" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests.swiftconstvalues",
+    "dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests.d",
+    "diagnostics" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests.o",
+    "llvm-bc" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests.bc",
+    "object" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests.o",
+    "swift-dependencies" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests.swiftdeps",
+    "swiftmodule" : "/Volumes/Respaldo Disco/Development/t_store/ios/build/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/arm64/RunnerTests~partial.swiftmodule"
+  }
+}
